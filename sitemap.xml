@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jef.binomed.fr/resume/resume.css</loc>
+    <loc>http://jef.binomed.fr/resume/resume-custo.js</loc>
     
-    <lastmod>2016-03-04T08:42:48.853Z</lastmod>
+    <lastmod>2016-03-04T12:35:05.574Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/resume/resume-custo.js</loc>
+    <loc>http://jef.binomed.fr/resume/resume.css</loc>
     
     <lastmod>2016-03-04T08:42:48.853Z</lastmod>
     
@@ -51,7 +51,7 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/assets/2015-07-PortalWebRTC/portal-custo.js</loc>
+    <loc>http://jef.binomed.fr/assets/2015-07-PortalWebRTC/portal-custo.css</loc>
     
     <lastmod>2015-12-11T15:05:59.000Z</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/assets/2015-07-PortalWebRTC/portal-custo.css</loc>
+    <loc>http://jef.binomed.fr/assets/2015-10-Skiff/skiff-custo.js</loc>
     
     <lastmod>2015-12-11T15:05:59.000Z</lastmod>
     
@@ -79,14 +79,14 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/assets/2015-10-Skiff/skiff-custo.js</loc>
+    <loc>http://jef.binomed.fr/assets/2015-07-PortalWebRTC/portal-custo.js</loc>
     
     <lastmod>2015-12-11T15:05:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/2015/02/02/2015-02-02--GDG-Nantes-Intel-XDK/</loc>
+    <loc>http://jef.binomed.fr/2015/02/20/2015-02-20--DevFest-Nantes-2014-Demos-Part-2-Leap-Motion/</loc>
     
     <lastmod>2015-12-11T15:05:57.000Z</lastmod>
     
@@ -100,7 +100,21 @@
   </url>
   
   <url>
+    <loc>http://jef.binomed.fr/2014/12/10/2014-12-10--DevFest-Nantes-2014-Demos-Part-0-Teasing/</loc>
+    
+    <lastmod>2015-12-11T15:05:57.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jef.binomed.fr/2014/12/16/2014-12-16--DevFest-Nantes-2014-Demos-Part-1-Myo/</loc>
+    
+    <lastmod>2015-12-11T15:05:57.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jef.binomed.fr/2015/02/02/2015-02-02--GDG-Nantes-Intel-XDK/</loc>
     
     <lastmod>2015-12-11T15:05:57.000Z</lastmod>
     
@@ -114,21 +128,7 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/2015/02/20/2015-02-20--DevFest-Nantes-2014-Demos-Part-2-Leap-Motion/</loc>
-    
-    <lastmod>2015-12-11T15:05:57.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://jef.binomed.fr/2015/07/07/2015-07-07--Realisez-votre-PortalGun-avec-WebRTC/</loc>
-    
-    <lastmod>2015-12-11T15:05:57.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jef.binomed.fr/2014/12/10/2014-12-10--DevFest-Nantes-2014-Demos-Part-0-Teasing/</loc>
     
     <lastmod>2015-12-11T15:05:57.000Z</lastmod>
     
