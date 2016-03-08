@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://jef.binomed.fr/"/>
-  <updated>2016-02-26T15:02:46.773Z</updated>
+  <updated>2016-03-07T16:26:56.458Z</updated>
   <id>http://jef.binomed.fr/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Commment devenir speaker  ? (Partie 1)</title>
+    <link href="http://jef.binomed.fr/2016/03/07/commment-devenir-speaker/"/>
+    <id>http://jef.binomed.fr/2016/03/07/commment-devenir-speaker/</id>
+    <published>2016-03-07T16:26:56.458Z</published>
+    <updated>2016-03-07T16:26:56.458Z</updated>
+    
+    <content type="html">&lt;p&gt;Régulièrement je croise un grand nombre de personnnes talentueuses techniquement. Que ce soit dans ma société ou lors des événements que je peux organiser avec le GDG.&lt;/p&gt;
+&lt;p&gt;Bien souvent ces gens talentueux ne sont pas derrière le pupitre à partager leur savoir mais côté public. Pourquoi donc ? Pourquoi ne franchissent-ils pas le pas ? &lt;/p&gt;
+&lt;p&gt;Je vais essayé à travers cette série d’articles de vous partager des conseils et bonnes pratiques que j’ai peut glannées ici et là lors des conférences où j’ai pu soit participer, soit animer.&lt;/p&gt;
+&lt;p&gt;Avant d’aller plus loin et de rentrer dans le vif du sujet, sachez que je ne me revendique aucunement comme un “speaker expert”. Je me permet juste ici de donner mon avis construit sur des multiples expériences que ce soit en tant que participant ou conférencier.&lt;/p&gt;
+&lt;h1 id=&quot;De-quoi-vais-je-parler&quot;&gt;&lt;a href=&quot;#De-quoi-vais-je-parler&quot; class=&quot;headerlink&quot; title=&quot;De quoi vais-je parler ?&quot;&gt;&lt;/a&gt;De quoi vais-je parler ?&lt;/h1&gt;&lt;p&gt;La première chose qui ressort à chaque fois que je discute avec des gens que j’essaye de convaincre de parler sur scène, ils me sortent tous la même réponse : “je ne sais pas de quoi je pourrais parler.”&lt;/p&gt;
+&lt;h2 id=&quot;Syndrome-de-l’imposteur-quand-tu-nous-tiens&quot;&gt;&lt;a href=&quot;#Syndrome-de-l’imposteur-quand-tu-nous-tiens&quot; class=&quot;headerlink&quot; title=&quot;Syndrome de l’imposteur quand tu nous tiens !&quot;&gt;&lt;/a&gt;Syndrome de l’imposteur quand tu nous tiens !&lt;/h2&gt;&lt;p&gt;Pour réussir à trouver son sujet, il faut commencer par vaincre ses peurs et aller contre ce terrible mal qui frappe la communauté des développeurs(euses) : le syndrome de l’imposteur. Pour ceux qui ne le connaissent pas, je ne vais pas me lancer dans une explication car bons nombres d’articles et déjà très bien traité ce sujet à de multiples reprises. J’expliquerais juste rapidement qu’il s’agit d’une façon qu’on les individus à ce se sous évalués et se croire toujours inférieur et moins légétimes que leur collègues sur les sujets techniques.&lt;/p&gt;
+&lt;h3 id=&quot;Je-suis-plus-fort-que-ca&quot;&gt;&lt;a href=&quot;#Je-suis-plus-fort-que-ca&quot; class=&quot;headerlink&quot; title=&quot;Je suis plus fort que ça !&quot;&gt;&lt;/a&gt;Je suis plus fort que ça !&lt;/h3&gt;&lt;p&gt;Ok, donc commençons par là ! Arrêtons de croire qu’on est mauvais, que l’on a rien à partager et que l’on vaut rien. Depuis que nous sommes tout petit, nous aimons partager, et le monde l’informatique est aussi dynamique par ce que justement il y a ce partage de connaissances. Tous ces échanges qui se font autour de la machine à café, le soir autour d’un verre ou simplement lors d’une session de pair programming. Bref, nous partageons et échangeons sans cesse !&lt;/p&gt;
+&lt;h3 id=&quot;Je-suis-pas-si-nul-que-ca&quot;&gt;&lt;a href=&quot;#Je-suis-pas-si-nul-que-ca&quot; class=&quot;headerlink&quot; title=&quot;Je suis pas si nul que ça ?&quot;&gt;&lt;/a&gt;Je suis pas si nul que ça ?&lt;/h3&gt;&lt;p&gt;Donc si on regarde notre manière de partager l’information déjà aujourd’hui : que ça soit des partages sur les RSE, ou réseaux public ou comme je le disais avant autour d’échanges informels, on se rend compte que finalement, on a des choses à dire ! En effet, tout le monde ne pas présenter une session de 3h sur la façon d’optimiser dans le détail une application ReactJS pour tenir la charge d’un million d’utilisateurs. Mais sans partir dans les extrèmes il n’y a pas qu’un format de conférences. De même il n’y a pas un profil de speaker, il y en plusieurs !&lt;/p&gt;
+&lt;h2 id=&quot;Les-differents-niveau-du-speaker&quot;&gt;&lt;a href=&quot;#Les-differents-niveau-du-speaker&quot; class=&quot;headerlink&quot; title=&quot;Les différents niveau du speaker&quot;&gt;&lt;/a&gt;Les différents niveau du speaker&lt;/h2&gt;&lt;p&gt;Regardons en effet les possiblités que l’on a &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Régulièrement je croise un grand nombre de personnnes talentueuses techniquement. Que ce soit dans ma société ou lors des événements que 
+    
+    </summary>
+    
+      <category term="Tips" scheme="http://jef.binomed.fr/categories/Tips/"/>
+    
+    
+      <category term="speaker" scheme="http://jef.binomed.fr/tags/speaker/"/>
+    
+      <category term="tips" scheme="http://jef.binomed.fr/tags/tips/"/>
+    
+  </entry>
   
   <entry>
     <title>Myo sous linux</title>
