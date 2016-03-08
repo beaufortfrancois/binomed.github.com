@@ -992,7 +992,7 @@ header nav ul li a:hover {
   position: relative;
 }
 .resume article h1.title-click::after {
-  content: '\f01a';
+  content: '\f065';
   font-family: "FontAwesome";
   font-size: 80%;
   -webkit-font-smoothing: antialiased;
@@ -1001,7 +1001,7 @@ header nav ul li a:hover {
   right: 0;
 }
 .resume article h1.title-click.show::after {
-  content: '\f01b';
+  content: '\f066';
 }
 .resume article div.detail-hide {
   opacity: 0;
