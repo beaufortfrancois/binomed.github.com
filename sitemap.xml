@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jef.binomed.fr/2016/03/07/commment-devenir-speaker/</loc>
+    <loc>http://jef.binomed.fr/2016/03/11/2016-03-11-comment-devenir-speaker-part-1/</loc>
     
-    <lastmod>2016-03-07T16:26:56.458Z</lastmod>
+    <lastmod>2016-03-11T11:53:09.548Z</lastmod>
     
   </url>
   
@@ -58,13 +58,6 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/assets/2015-07-PortalWebRTC/portal-custo.css</loc>
-    
-    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://jef.binomed.fr/assets/js_helper/jef-binomed-helper.js</loc>
     
     <lastmod>2015-12-11T15:05:59.000Z</lastmod>
@@ -72,14 +65,7 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/assets/2015-10-Skiff/skiff-custo.js</loc>
-    
-    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jef.binomed.fr/assets/2015-10-Skiff/skiff-custo.css</loc>
+    <loc>http://jef.binomed.fr/assets/2015-07-PortalWebRTC/portal-custo.css</loc>
     
     <lastmod>2015-12-11T15:05:59.000Z</lastmod>
     
@@ -93,6 +79,20 @@
   </url>
   
   <url>
+    <loc>http://jef.binomed.fr/assets/2015-10-Skiff/skiff-custo.css</loc>
+    
+    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jef.binomed.fr/assets/2015-10-Skiff/skiff-custo.js</loc>
+    
+    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jef.binomed.fr/2015/02/20/2015-02-20--DevFest-Nantes-2014-Demos-Part-2-Leap-Motion/</loc>
     
     <lastmod>2015-12-11T15:05:57.000Z</lastmod>
@@ -100,14 +100,14 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/2014/12/10/2014-12-10--DevFest-Nantes-2014-Demos-Part-0-Teasing/</loc>
+    <loc>http://jef.binomed.fr/2014/11/29/2014-11-29--un-nouveau-blog/</loc>
     
     <lastmod>2015-12-11T15:05:57.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/2014/11/29/2014-11-29--un-nouveau-blog/</loc>
+    <loc>http://jef.binomed.fr/2014/12/10/2014-12-10--DevFest-Nantes-2014-Demos-Part-0-Teasing/</loc>
     
     <lastmod>2015-12-11T15:05:57.000Z</lastmod>
     
