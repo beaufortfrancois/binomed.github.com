@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://jef.binomed.fr/"/>
-  <updated>2016-03-11T13:39:43.232Z</updated>
+  <updated>2016-05-02T08:01:43.131Z</updated>
   <id>http://jef.binomed.fr/</id>
   
   <author>
@@ -16,11 +16,238 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Commment devenir speaker  ? (Partie 1)</title>
+    <title>Comment devenir speaker  ? (Partie 3)</title>
+    <link href="http://jef.binomed.fr/2016/05/02/2016-05-02-comment-devenir-speaker-part-3/"/>
+    <id>http://jef.binomed.fr/2016/05/02/2016-05-02-comment-devenir-speaker-part-3/</id>
+    <published>2016-05-02T08:01:43.000Z</published>
+    <updated>2016-05-02T08:01:43.131Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/audience.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Si vous n’avez pas lu les deux premières parties, vous pouvez les trouver ici : &lt;a href=&quot;http://jef.binomed.fr/2016/03/11/2016-03-11-comment-devenir-speaker-part-1/&quot;&gt;Comment devenir speaker ? (partie 1)&lt;/a&gt; et&lt;br&gt;&lt;a href=&quot;http://jef.binomed.fr/2016/04/06/2016-04-06-comment-devenir-speaker-part-2/&quot;&gt;Comment devenir speaker ? (partie 2)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cet article est le dernier de cette série, et nous allons nous attarder sur la préparation des slides et sur la phase ultime : la présentation en public.&lt;/p&gt;
+&lt;h2 id=&quot;Bien-preparer-ses-slides&quot;&gt;&lt;a href=&quot;#Bien-preparer-ses-slides&quot; class=&quot;headerlink&quot; title=&quot;Bien préparer ses slides&quot;&gt;&lt;/a&gt;Bien préparer ses slides&lt;/h2&gt;&lt;h3 id=&quot;Structurer-ses-idees&quot;&gt;&lt;a href=&quot;#Structurer-ses-idees&quot; class=&quot;headerlink&quot; title=&quot;Structurer ses idées&quot;&gt;&lt;/a&gt;Structurer ses idées&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/clean.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;La première étape est de poser ses idées ! Réfléchissez à ce que vous voulez transmettre : Qu’est ce qu’il ne faut surtout pas oublier ?&lt;/p&gt;
+&lt;p&gt;Pour ma part, j’utilise une mindmap car cela me permet de structurer et trier mes idées en même temps que je les note.&lt;/p&gt;
+&lt;p&gt;Cette étape offre plusieurs avantages : &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Elle vous permet de ne pas oublier d’éléments importants.&lt;/li&gt;
+&lt;li&gt;Elle va vous forcer à structurer vos idées et ceci dessinera un début de plan ou au moins de catégories pour votre présentation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Je vous conseille de vous laisser plusieurs jours pour remplir cette mindmap car en règle générale, on ne pense pas à tout du premier coup ! &lt;/p&gt;
+&lt;h3 id=&quot;Se-poser-les-bonnes-questions&quot;&gt;&lt;a href=&quot;#Se-poser-les-bonnes-questions&quot; class=&quot;headerlink&quot; title=&quot;Se poser les bonnes questions&quot;&gt;&lt;/a&gt;Se poser les bonnes questions&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/questions.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Voici les questions à se poser quand on prépare des slides : &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Qui est mon auditoire ?&lt;/li&gt;
+&lt;li&gt;Qu’attendent-ils de ma présentation ?&lt;/li&gt;
+&lt;li&gt;Est ce que mes slides doivent être compréhensibles sans le discours qui va avec ?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ces questions vous permettront de savoir comment orienter votre discours, quel niveau de technicité vous devez y mettre.&lt;/p&gt;
+&lt;p&gt;Un talk annoncé comme débutant devra peut être éviter d’afficher trop de code complexe, ou alors vous éviterez peut être de rentrer dans des aspects pointus d’une technologie par exemple.&lt;/p&gt;
+&lt;p&gt;La deuxième question fait référence à votre résumé. Lors de la soumission au CFP, vous avez formulé une sorte de “contrat”. Et bien prenez le temps de relire votre descriptif, pour voir comment votre présentation va répondre à ce “contrat”.&lt;/p&gt;
+&lt;p&gt;Enfin, la dernière question est importante car elle indique le niveau de détails que vous aller apporter à vos slides. Si vous préparez une formation, les slides représentent la matière première. Le participant devra y retrouver tous les éléments évoqués à l’oral.&lt;br&gt;Si au contraire vous donnez une conférence dans un évènement : vos slides n’auront pas besoin d’être trop riches.&lt;/p&gt;
+&lt;h3 id=&quot;Raconter-une-histoire&quot;&gt;&lt;a href=&quot;#Raconter-une-histoire&quot; class=&quot;headerlink&quot; title=&quot;Raconter une histoire&quot;&gt;&lt;/a&gt;Raconter une histoire&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/story.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;C’est une des composantes les plus importantes à mon avis dans la préparation d’une présentation. Vous devez avoir un fil conducteur pour votre présentation. Vous devez savoir où vous emmenez votre auditoire et via quel chemin.&lt;/p&gt;
+&lt;p&gt;Un peu comme une histoire qui possède une introduction, une intrigue, des rebondissements et enfin une conclusion !&lt;/p&gt;
+&lt;p&gt;Votre présentation doit amener un sujet, le traiter de façon logique et progressive pour enfin conclure.&lt;/p&gt;
+&lt;p&gt;De cette manière votre présentation sera plus digeste et les participants comprendront mieux les propos que vous leur tiendrez.&lt;/p&gt;
+&lt;h3 id=&quot;Pas-de-gif&quot;&gt;&lt;a href=&quot;#Pas-de-gif&quot; class=&quot;headerlink&quot; title=&quot;Pas de gif&quot;&gt;&lt;/a&gt;Pas de gif&lt;/h3&gt;&lt;p&gt;Voici l’effet que donne un gif sur votre audience :&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/first_gif.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ou encore ceci : &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/absorber.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vous l’aurez compris, le côté animation en boucle monopolise l’attention de votre auditoire et cela lui demande un effort pour rester concentré sur vos propos. J’aurais donc tendance à proscrire les Gifs pour les présentations.&lt;/p&gt;
+&lt;p&gt;Cependant, dans certains cas, les gifs peuvent être intéressants : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Si vous faites une présentation de 5 minutes : Le format pitch se prête bien aux gifs animés car le discours est généralement musclé et les changements de slides fréquents. De cette façon, un gif vous aidera à mettre en image vos propos.&lt;/li&gt;
+&lt;li&gt;Si vous souhaitez faire une pause ou une transition dans votre présentation. Le gif aidera votre auditoire à faire cette pause.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mais en dehors de ces cas, sachez que si vous mettez des animations, vous avez de fortes chances de perdre votre audience. Donc éviter au maximum d’en mettre. &lt;/p&gt;
+&lt;h3 id=&quot;Conseils-sur-le-fond-et-la-forme&quot;&gt;&lt;a href=&quot;#Conseils-sur-le-fond-et-la-forme&quot; class=&quot;headerlink&quot; title=&quot;Conseils sur le fond et la forme&quot;&gt;&lt;/a&gt;Conseils sur le fond et la forme&lt;/h3&gt;&lt;p&gt;Voici quelques conseils pour vos slides : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Misez sur la simplicité. Il faut éviter les slides trop chargés car, de la même façon qu’un gif peut distraire votre auditoire, un slide trop chargé va aussi perdre vos spectateurs. Un slide trop riche ne met pas assez en avant l’information et on est obligé de chercher la donnée pertinente.&lt;/li&gt;
+&lt;li&gt;Évitez les slides sans style (c’est à dire fond blanc, en utilisant la police de caractère par défaut). Ces derniers donneront une image veille à vos slides et risquent de desservir votre contenu.&lt;/li&gt;
+&lt;li&gt;Faites des transitions et des breaks pour aérer votre discours.&lt;/li&gt;
+&lt;li&gt;Montrez du code ou des démos. Cela permet à l’auditoire de voir du concret sur ce que vous dites.&lt;/li&gt;
+&lt;li&gt;Bref, trouvez le juste milieu entre contenu et espaces vides !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Le-jour-J&quot;&gt;&lt;a href=&quot;#Le-jour-J&quot; class=&quot;headerlink&quot; title=&quot;Le jour J&quot;&gt;&lt;/a&gt;Le jour J&lt;/h2&gt;&lt;p&gt;Vos slides sont maintenant prêts ! Le jour tant redouté de la conférence face à un public est arrivé !&lt;/p&gt;
+&lt;h3 id=&quot;Se-Lancer&quot;&gt;&lt;a href=&quot;#Se-Lancer&quot; class=&quot;headerlink&quot; title=&quot;Se Lancer&quot;&gt;&lt;/a&gt;Se Lancer&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/jump.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Le démarrage d’une présentation n’est jamais évident car on est pas à l’aise, on ne sait pas par où commencer…&lt;br&gt;En général, passées 5 minutes vous êtes à l’aise et votre discours est fluide. &lt;/p&gt;
+&lt;p&gt;Mais comment faire pour les 5 premières minutes ?&lt;/p&gt;
+&lt;p&gt;Je vous propose 2 techniques : &lt;/p&gt;
+&lt;p&gt;La première consiste à mémoriser par cœur un discours. Cela peut être le slide où vous vous présentez ou alors une introduction écrite spécialement pour la conférence. Le fait de mémoriser un discours vous permettra de le ressortir sans hésitation ! De cette manière vous passez ces 5 minutes désagréables et passez directement à l’étape “rythme de croisière” !&lt;/p&gt;
+&lt;p&gt;La deuxième consiste à raconter une anecdote personnelle. De cette manière vous aller détendre l’auditoire et vous vous laissez le temps d’arriver au “rythme de croisière”.&lt;/p&gt;
+&lt;h3 id=&quot;Attention-a-votre-image&quot;&gt;&lt;a href=&quot;#Attention-a-votre-image&quot; class=&quot;headerlink&quot; title=&quot;Attention à votre image&quot;&gt;&lt;/a&gt;Attention à votre image&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/clown.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;N’oubliez pas qu’une présentation publique peut laisser des traces. Vous représentez le plus souvent votre société ou alors vous même, et donc vous devez peser vos mots et réfléchir aux impacts qu’ils pourraient avoir ! &lt;/p&gt;
+&lt;p&gt;En 2013 par exemple, il y a eu une histoire qui a fait beaucoup de bruit autour d’un tweet qui a conduit plusieurs personnes à se faire renvoyer &lt;a href=&quot;http://jezebel.com/5991792/woman-in-tech-tweets-about-sexist-dudes-in-tech-dude-get-fired-internet-meltdown-ensues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://jezebel.com/5991792/woman-in-tech-tweets-about-sexist-dudes-in-tech-dude-get-fired-internet-meltdown-ensues&lt;/a&gt; . Même si cette histoire peut sembler extrême, ce n’est pas une histoire isolée ! Sans pour autant aller jusqu’au renvoie des protagonistes, il faut tenir compte que les réseaux sociaux sont présents et peuvent avoir un impact sur nos faits et gestes !&lt;/p&gt;
+&lt;p&gt;Même si dans cette histoire, il était question de sexisme, cela peut s’appliquer à d’autres sujets ! D’une manière générale, j’aurais tendance à vous encourager à être prudent sur tous les sujets pouvant être polémiques. Je ne rentrerai pas dans un débat sur la liberté d’expression. Je considère simplement qu’il faut choisir ses mots et accepter que d’autres puissent mal les prendre.&lt;/p&gt;
+&lt;p&gt;Si de plus en plus de conférences se dotent de codes de conduite, c’est justement pour éviter ce genre de problèmes. Donc référez-vous, avant d’aller à une conférence, à son code de conduite si elle en a un.&lt;/p&gt;
+&lt;h3 id=&quot;Poser-des-questions&quot;&gt;&lt;a href=&quot;#Poser-des-questions&quot; class=&quot;headerlink&quot; title=&quot;Poser des questions&quot;&gt;&lt;/a&gt;Poser des questions&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/ask.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Durant votre présentation n’hésitez pas à solliciter votre auditoire. Cela vous permettra de juger le niveau de l’audience et ainsi d’adapter votre discours en conséquence.&lt;/p&gt;
+&lt;p&gt;De plus, si vous posez régulièrement des questions, vous donnerez l’occasion régulièrement à vos spectateurs de raccrocher le fil de votre discours !&lt;/p&gt;
+&lt;h3 id=&quot;Faire-des-pauses&quot;&gt;&lt;a href=&quot;#Faire-des-pauses&quot; class=&quot;headerlink&quot; title=&quot;Faire des pauses&quot;&gt;&lt;/a&gt;Faire des pauses&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/time.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Faire des pauses est essentiel pour laisser votre auditoire respirer et assimiler l’information que vous lui donnez.&lt;/p&gt;
+&lt;p&gt;Attention toutefois à ne pas donner l’impression que vous êtes perdu dans votre discours ! &lt;/p&gt;
+&lt;h3 id=&quot;Osez-dire-je-ne-sais-pas&quot;&gt;&lt;a href=&quot;#Osez-dire-je-ne-sais-pas&quot; class=&quot;headerlink&quot; title=&quot;Osez dire : je ne sais pas&quot;&gt;&lt;/a&gt;Osez dire : je ne sais pas&lt;/h3&gt;&lt;p&gt;Ceci est très important. Vous avez le droit de ne pas tout savoir, et ça, votre auditoire le sait ! Si vous ne savez pas quelque chose, n’hésitez pas à le dire. Bien sûr, si vous répondez “Je ne sais pas” à chacune des questions posées cela va poser problème, mais c’est rarement le cas.&lt;/p&gt;
+&lt;p&gt;Le fait de ne pas savoir répondre à une question ne mettra pas en avant votre prétendue incompétence ! Ceci est une fois de plus une idée reçue qui nous hante et nous sert d’excuse pour ne pas monter sur scène.&lt;/p&gt;
+&lt;h3 id=&quot;Expliquez-ce-que-vous-faites&quot;&gt;&lt;a href=&quot;#Expliquez-ce-que-vous-faites&quot; class=&quot;headerlink&quot; title=&quot;Expliquez ce que vous faites&quot;&gt;&lt;/a&gt;Expliquez ce que vous faites&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/explain.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Il peut arriver des fois qu’une démo ne marche pas ou alors qu’il vous faille faire plusieurs manipulations pour la lancer. Ce que vous faites, les commandes à lancer, les boutons à cliquer, vous seul le maîtrisez ! En face, votre auditoire ne voit qu’une personne derrière un PC qui ne parle pas et qui semble faire des choses bien compliquées…&lt;/p&gt;
+&lt;p&gt;Bref, pour enlever cette frustration, il est très important d’expliquer vos manipulations. Vous continuerez à garder votre auditoire avec vous et le temps leur paraîtra moins long pendant que vous préparez votre démo.&lt;/p&gt;
+&lt;h3 id=&quot;Ayez-un-plan-B&quot;&gt;&lt;a href=&quot;#Ayez-un-plan-B&quot; class=&quot;headerlink&quot; title=&quot;Ayez un plan B&quot;&gt;&lt;/a&gt;Ayez un plan B&lt;/h3&gt;&lt;p&gt;L’effet démo n’est pas un mythe il arrive malheureusement plus souvent qu’on ne le voudrait ! Il est donc important de bien penser à la loi de Murphy et de se dire que ce n’est qu’une question de temps avant que votre démo décide de ne plus fonctionner ! &lt;/p&gt;
+&lt;p&gt;C’est pour ça qu’il faut toujours prévoir un plan B ! Ceci peut être une solution dégradée mais démontrant quand même la chose ou alors simplement prévoir une vidéo préalablement enregistrée montrant votre fonctionnalité ! &lt;/p&gt;
+&lt;p&gt;Et surtout, si le problème persiste, sachez abandonner et continuer votre présentation !  C’est très important car il n’y a rien de plus frustrant qu’un speaker qui s’acharne sur une démo qui ne marche pas. Le public vous attend et donc sachez passer à autre chose. Le public ne vous en sera que plus reconnaissant.&lt;/p&gt;
+&lt;h1 id=&quot;Conclusion&quot;&gt;&lt;a href=&quot;#Conclusion&quot; class=&quot;headerlink&quot; title=&quot;Conclusion&quot;&gt;&lt;/a&gt;Conclusion&lt;/h1&gt;&lt;p&gt;Pour conclure cette série d’articles, je dirais simplement que se lancer dans l’aventure speaker n’est finalement pas quelque chose de si compliqué. Nous nous mettons beaucoup de freins psychologiques qui peuvent être simplement levés ! &lt;/p&gt;
+&lt;p&gt;A titre d’exemple, voici quelques talks que j’apprécie beaucoup et qui reprennent des pratiques énoncées dans cet article : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=B66C6WH3Bio&amp;amp;index=3&amp;amp;list=PLuZ_sYdawLiXf6PNaXtEIPOTVIKLF2L5x&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FlexRox - DevFest 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FGmBeAvxRaM&amp;amp;index=22&amp;amp;list=PLuZ_sYdawLiXf6PNaXtEIPOTVIKLF2L5x&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;3.14 things I didn’t know about CSS - DevFest 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zd3j6yPLmdY&amp;amp;list=PLuZ_sYdawLiXf6PNaXtEIPOTVIKLF2L5x&amp;amp;index=24&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;OMG! Terminator sera codé en JavaScript - DevFest 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Toutes ces photos ont été trouvées sur &lt;a href=&quot;finda.photo&quot;&gt;finda.photo&lt;/a&gt;, &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Unsplash&lt;/a&gt; et &lt;a href=&quot;http://www.gratisography.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Gratisography&lt;/a&gt; (Sites de photos libre de droits)&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/audience.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Si vous n’avez pas lu les deux premières parties, vous pouvez les trouver
+    
+    </summary>
+    
+      <category term="Tips" scheme="http://jef.binomed.fr/categories/Tips/"/>
+    
+    
+      <category term="speaker" scheme="http://jef.binomed.fr/tags/speaker/"/>
+    
+      <category term="tips" scheme="http://jef.binomed.fr/tags/tips/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Comment devenir speaker  ? (Partie 2)</title>
+    <link href="http://jef.binomed.fr/2016/04/06/2016-04-06-comment-devenir-speaker-part-2/"/>
+    <id>http://jef.binomed.fr/2016/04/06/2016-04-06-comment-devenir-speaker-part-2/</id>
+    <published>2016-04-06T19:17:13.000Z</published>
+    <updated>2016-04-29T10:55:09.937Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/audience.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Si vous n’avez pas lu la première partie, je vous invite à la lire : &lt;a href=&quot;http://jef.binomed.fr/2016/03/11/2016-03-11-comment-devenir-speaker-part-1/&quot;&gt;Comment devenir speaker ? (partie 1)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dans cet article, nous allons nous attarder sur les points suivants : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Où Aller ?&lt;/li&gt;
+&lt;li&gt;Comment passer la terrible épreuve des CFP ?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;Ou-aller&quot;&gt;&lt;a href=&quot;#Ou-aller&quot; class=&quot;headerlink&quot; title=&quot;Où aller ?&quot;&gt;&lt;/a&gt;Où aller ?&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/directions.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Devrais-je dire : &lt;strong&gt;“Quelle conférence choisir ?”&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Pour vous aider à choisir, vous devez vous rappeler les niveaux de speakers : &lt;strong&gt;Débutant / Local / National / Rock-star.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;En règle générale, à chaque niveau, il existe une conférence.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Débutant :&lt;/strong&gt; Il choisira plutôt des conférences internes à sa société pour s’exercer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Local :&lt;/strong&gt; Lui, proposera des sujets dans les user groups locaux.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;National :&lt;/strong&gt; Il proposera des sujets dans des conférences nationales type DevFest.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rock-star :&lt;/strong&gt; Il est, en général, un évangéliste et donc, il donne des conférences à travers le monde.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Savoir-se-positionner&quot;&gt;&lt;a href=&quot;#Savoir-se-positionner&quot; class=&quot;headerlink&quot; title=&quot;Savoir se positionner&quot;&gt;&lt;/a&gt;Savoir se positionner&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/blackboard.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Un des points important de cet exercice est de savoir se positionner. Il faut en effet estimer nos chances de voir notre proposition retenue sur une conférence. Je ne parlerai pas du niveau débutant car il est très rare qu’une présentation que l’on propose au sein de son entreprise soit refusée.&lt;/p&gt;
+&lt;h3 id=&quot;Conference-Locale&quot;&gt;&lt;a href=&quot;#Conference-Locale&quot; class=&quot;headerlink&quot; title=&quot;Conférence Locale&quot;&gt;&lt;/a&gt;Conférence Locale&lt;/h3&gt;&lt;p&gt;Quand on passe au niveau local, les user groups représentent l’endroit idéal pour faire ses premières armes face à un public. &lt;/p&gt;
+&lt;p&gt;En règle générale, les user groups cherchent toujours des personnes pour animer leurs sessions. Un user group cherche à avoir une certaine régularité et doit donc le remplir. De plus, un user group va souvent chercher à promouvoir des conférenciers locaux. Il n’hésitera pas à accepter un speaker inconnu ! Le user group ne le fera peut être pas tous les mois mais, vous avez peu de chances de vous faire refouler si vous êtes dans le thème. &lt;/p&gt;
+&lt;p&gt;Si on prend l’exemple de Nantes, il est facile de trouver un user group dans lequel aller parler. En effet, nous avons : &lt;strong&gt;Nantes JUG / GDG Nantes / Agile Nantes / Nantes JS / MachineLearning Nantes / Human Talk / Uxd Meetup / Nantes Rb / Nantes Phyton / Nantes C++ / Graph Databse Nantes / …&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Conference-Nationale&quot;&gt;&lt;a href=&quot;#Conference-Nationale&quot; class=&quot;headerlink&quot; title=&quot;Conférence Nationale&quot;&gt;&lt;/a&gt;Conférence Nationale&lt;/h3&gt;&lt;p&gt;Au niveau national, il va falloir tenir compte de plusieurs paramètres : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Qui est l’organisateur ?&lt;/li&gt;
+&lt;li&gt;L’ancienneté de la conférence&lt;/li&gt;
+&lt;li&gt;Le thème&lt;/li&gt;
+&lt;li&gt;Le lieu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En mixant ces 4 paramètres vous pourrez en déduire vos chances d’être pris et le niveau requis pour tenter la conférence.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;L’organisateur : &lt;/strong&gt; Il va vous indiquer si vous êtes sur un user group où un regroupement de user groups. En règle générale, les conférences organisées par des user groups cherchent toujours à promouvoir quelques speakers locaux afin de mettre en avant leur région. Si vous ciblez une conférence à l’autre bout de la France et que vous n’êtes pas (re)connu, passez votre chemin.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;L’ancienneté de la conférence :&lt;/strong&gt; Plus une conférence est vieille, plus elle a une réputation à défendre et donc plus la sélection à l’entrée est difficile. Une jeune conférence cherche à se faire connaître et donc acceptera plus facilement les propositions qu’elle reçoit car sa réputation est à créer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Le thème : &lt;/strong&gt; Si la conférence est multi-technologies, vous aurez plus de chances d’êtres retenu. L’objectif principal de ces journées est l’ouverture d’esprit. Même si les organisateurs chercheront à avoir des conférences pointues, le but premier n’est pas d’asseoir une expertise donnée. Une conférence spécialisée demandera généralement que vous soyez expert dans une technologie pour proposer un sujet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Le lieu : &lt;/strong&gt; Entre une conférence organisée dans une école et une conférence organisée dans un palais des congrès, des considérations financières rentrent en ligne de compte. De ce fait, les organisateurs engendrant plus de frais, chercheront à proposer une certaine qualité de conférence pour contenter les participants. Ainsi une conférence organisée dans une école sera pour vous un message d’opportunité à saisir.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Toutes les règles que j’ai citées précédemment ne sont bien sur pas applicables à toutes les conférences. Il s’agit seulement d’un indicateur à mixer avec plusieurs autres données. &lt;/p&gt;
+&lt;p&gt;Listons ici quelques conférences dans lesquelles des CFP sont ouverts et où vous pourrez proposer des sujets. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/devfest.png&quot; alt=&quot;&quot;&gt; DevFest : Paris : Technologies Google&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/breizhcamp.png&quot; alt=&quot;&quot;&gt; Breizhcamp :  Rennes : Multi technos&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/logo-codeurs-en-seine.png&quot; alt=&quot;&quot;&gt; Codeurs en Seine : Rouen : Multi technos&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/agiletour2015.png&quot; alt=&quot;&quot;&gt; Agile Tour : Partout en France : Agilité&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/rivieraDev.png&quot; alt=&quot;&quot;&gt; Riviera Dev : Sofia : Multi technos&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/bdxio.png&quot; alt=&quot;&quot;&gt; Bdx.io : Bordeaux : Multi technos&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/snowcamp.png&quot; alt=&quot;&quot;&gt; Snowcamp : Grenoble : Multi technos&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/kiwiparty2-logo.png&quot; alt=&quot;&quot;&gt; KiwiParty : Strasbourg : Web&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/logo-parisweb.png&quot; alt=&quot;&quot;&gt; Paris Web : Paris : Web&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/devfest.png&quot; alt=&quot;&quot;&gt; DevFest : Nantes : Multi technos&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/Logo-Web2day.png&quot; alt=&quot;&quot;&gt; Web2Day &amp;amp; Tech2Day : Nantes : Marketing &amp;amp; influenceurs &amp;amp; Multi technos&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/blend_webmix.png&quot; alt=&quot;&quot;&gt; BlendWebMix : Lyon : Marketing &amp;amp; influenceurs&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/logo-mixit.png&quot; alt=&quot;&quot;&gt; MixIT : Lyon : Multi technos&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/seocamp.png&quot; alt=&quot;&quot;&gt; SEO Camp : Partout en France : SEO&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/Devoxx-UK-NORMAL.png&quot; alt=&quot;&quot;&gt; DevoxxFR : Paris : Multi technos&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/scalaio_medium.png&quot; alt=&quot;&quot;&gt; Scala.io : Lyon : Scala&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/cropped-DC_logo.png&quot; alt=&quot;&quot;&gt; DroidConFR : Paris : Android&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/eclipsecon.png&quot; alt=&quot;&quot;&gt; EclipseCon : Toulouse : Eclipse&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;/assets/2016-03-speakers/dotcss-logo.png&quot; alt=&quot;&quot;&gt; Dot conf : Paris : JS / CSS / Go&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;CFP-Mode-d’emploi&quot;&gt;&lt;a href=&quot;#CFP-Mode-d’emploi&quot; class=&quot;headerlink&quot; title=&quot;CFP Mode d’emploi&quot;&gt;&lt;/a&gt;CFP Mode d’emploi&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/guide_cfp.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;La première règle du CFP est : “Je ne suis pas sur d’être retenu.”&lt;br&gt;La seconde règle du CFP est : “Ce n’est pas grave si je ne suis pas retenu.”&lt;/p&gt;
+&lt;p&gt;J’insiste un peu mais il est essentiel de bien prendre conscience que le CFP est une épreuve très dure et ne donnant pas souvent satisfaction ! &lt;/p&gt;
+&lt;p&gt;Cependant, ayez bien conscience aussi que ne pas être pris à un CFP ne veut pas dire pour autant que l’on est mauvais ! Il y a vraiment une très forte concurrence.&lt;/p&gt;
+&lt;h2 id=&quot;Un-peu-de-statistiques&quot;&gt;&lt;a href=&quot;#Un-peu-de-statistiques&quot; class=&quot;headerlink&quot; title=&quot;Un peu de statistiques&quot;&gt;&lt;/a&gt;Un peu de statistiques&lt;/h2&gt;&lt;p&gt;Prenons l’exemple de 2 conférences : DevoxxFR et le DevFest Nantes.&lt;/p&gt;
+&lt;h3 id=&quot;DevFest-Nantes&quot;&gt;&lt;a href=&quot;#DevFest-Nantes&quot; class=&quot;headerlink&quot; title=&quot;DevFest Nantes&quot;&gt;&lt;/a&gt;DevFest Nantes&lt;/h3&gt;&lt;p&gt;En 2015, le DevFest a reçu &lt;strong&gt;114 sujets&lt;/strong&gt; pour ne retenir que &lt;strong&gt;34 sujets&lt;/strong&gt;. Si l’on détaille encore un peu plus, &lt;strong&gt;90 sujets conférences&lt;/strong&gt; proposés pour seulement &lt;strong&gt;28 sujets&lt;/strong&gt; retenus. Globalement, les speakers avaient une chance sur 3 d’être retenus…&lt;/p&gt;
+&lt;h3 id=&quot;DevoxxFR&quot;&gt;&lt;a href=&quot;#DevoxxFR&quot; class=&quot;headerlink&quot; title=&quot;DevoxxFR&quot;&gt;&lt;/a&gt;DevoxxFR&lt;/h3&gt;&lt;p&gt;En 2016, le Devoxx a reçu en tout &lt;strong&gt;797 sujets&lt;/strong&gt; dont &lt;strong&gt;444 pour des conférences&lt;/strong&gt; pour seulement &lt;strong&gt;90 conférences&lt;/strong&gt; au final. Seulement 1 speaker sur 5 a vu son sujet retenu ! &lt;/p&gt;
+&lt;h2 id=&quot;Ne-desesperez-pas&quot;&gt;&lt;a href=&quot;#Ne-desesperez-pas&quot; class=&quot;headerlink&quot; title=&quot;Ne désespérez pas !&quot;&gt;&lt;/a&gt;Ne désespérez pas !&lt;/h2&gt;&lt;p&gt;Vous l’aurez compris, ne pas avoir son sujet sélectionné fait partie du jeu. Et j’insiste, ce n’est pas parce que vous n’êtes pas retenu que vous n’êtes pas bon ! Beaucoup d’éléments rentrent en compte et il faut persévérer pour avoir sa chance.&lt;/p&gt;
+&lt;h2 id=&quot;Feedback-pourquoi-j’ai-pas-ete-retenu&quot;&gt;&lt;a href=&quot;#Feedback-pourquoi-j’ai-pas-ete-retenu&quot; class=&quot;headerlink&quot; title=&quot;Feedback : pourquoi j’ai pas été retenu&quot;&gt;&lt;/a&gt;Feedback : pourquoi j’ai pas été retenu&lt;/h2&gt;&lt;p&gt;Un autre point très frustrant avec les CFPs : Le manque de feedback lors d’un refus… En effet, quelle que soit la conférence, vous ne saurez pas pourquoi vous n’avez pas été retenu. &lt;/p&gt;
+&lt;p&gt;Au début, je trouvais ça injuste et je ne comprenais pas car je cherchais à progresser, et j’aurais été bien content de savoir ce qui avait joué en ma défaveur. Mais ça c’était avant ! Depuis, je suis devenu organisateur du DevFest à Nantes et l’équipe organisatrice a adopté le même positionnement. &lt;/p&gt;
+&lt;p&gt;La raison est très simple : Les raisons qui nous poussent à choisir tel ou tel sujet sont très subjectives. C’est un mix entre les goûts technologiques de l’organisateur, ce qu’il estime que son audience va vouloir, le fait d’avoir vu ou non tel ou tel speaker, si un autre speaker propose le même sujet, … &lt;/p&gt;
+&lt;p&gt;Bref, il y a encore plein d’autres raisons et finalement, chaque choix est unique et dépend du speaker et de sa proposition. Vu les nombres importants de propositions reçues, nous ne pouvons pas formuler de mail de refus individuel, cela prendrait trop de temps :(. Par contre, si jamais vous êtes vraiment trop frustré, vous pourrez toujours tenter d’envoyer un mail à l’équipe organisatrice pour avoir un peu plus de détails. Rien ne garantit pour autant que vous aurez une réponse.&lt;/p&gt;
+&lt;p&gt;Cependant, voici comment maximiser vos chances d’être retenu !&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/workout.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Les-categories-du-CFP&quot;&gt;&lt;a href=&quot;#Les-categories-du-CFP&quot; class=&quot;headerlink&quot; title=&quot;Les catégories du CFP&quot;&gt;&lt;/a&gt;Les catégories du CFP&lt;/h2&gt;&lt;p&gt;La partie session d’un CFP est généralement composé de 3 champs&lt;/p&gt;
+&lt;h3 id=&quot;Le-titre&quot;&gt;&lt;a href=&quot;#Le-titre&quot; class=&quot;headerlink&quot; title=&quot;Le titre&quot;&gt;&lt;/a&gt;Le titre&lt;/h3&gt;&lt;p&gt;Il doit être clair et expliquer ce que vous allez présenter ou alors, il doit être attirant ! &lt;/p&gt;
+&lt;p&gt;Le titre est important surtout pour le jour J. Sachez qu’un grand nombre de participants choisissent la session où ils vont à la dernière minute en regardant le nom de la conférence ! Un nom mal choisi pourra vous desservir.&lt;/p&gt;
+&lt;p&gt;A titre d’exemple, j’ai donné pendant 2 ans une conférence sur la technologie WebRTC. L’objectif de ma présentation était de présenter la technologie, je m’adressais donc à un public débutant. J’avais choisi en premier titre : “WebRTC, découvrons cette technologie” ou quelque chose s’en approchant. Je fus au début déçu par le nombre de participants qui venaient à ma présentation et c’était plutôt logique car rien dans mon titre n’expliquait de quoi cela parlait ni ne donnait une indication sur un potentiel contenu ! J’ai décidé après de revoir le titre pour “WebRTC - Révolutionnons le partage d’informations”. Bien que ce titre puisse être critiquable, il était déjà beaucoup mieux que le premier et m’a ramené beaucoup plus de monde dans mes sessions ! &lt;/p&gt;
+&lt;h3 id=&quot;La-Description&quot;&gt;&lt;a href=&quot;#La-Description&quot; class=&quot;headerlink&quot; title=&quot;La Description&quot;&gt;&lt;/a&gt;La Description&lt;/h3&gt;&lt;p&gt;Elle doit être suffisamment courte pour ne pas endormir les gens mais en même temps suffisamment détaillée pour leur donner envie de venir. Il ne faut pas hésiter à dévoiler un peu son plan et le niveau de la conférence pour que les gens sachent s’ils doivent venir ou non à votre conférence.&lt;/p&gt;
+&lt;p&gt;Un peu comme le titre, la description est très importante car c’est cette dernière que les participants vont lire sur le programme de l’événement ! &lt;/p&gt;
+&lt;p&gt;Une fois votre proposition écrite, prenez du recul et regardez votre titre et votre description et posez vous la question suivante : Est-ce que j’irais voir ma conférence si je lisais ce résumé ? Cette question est essentielle car au delà de la sélection par le comité organisateur, les participants devront aussi choisir votre conférence. N’hésitez pas à demander une relecture par des proches ou des collègues.&lt;/p&gt;
+&lt;p&gt;Cependant, les organisateurs vont porter une attention particulière à votre description car elle montre votre capacité à exprimer clairement vos idées. &lt;/p&gt;
+&lt;h3 id=&quot;Champ-libre&quot;&gt;&lt;a href=&quot;#Champ-libre&quot; class=&quot;headerlink&quot; title=&quot;Champ libre&quot;&gt;&lt;/a&gt;Champ libre&lt;/h3&gt;&lt;p&gt;Le plus souvent dans un CFP, vous avez un champ libre qui ne correspond pas à la description de votre session. Ce champ vous permet d’expliquer plus longuement le contenu de votre talk. Il ne faut pas hésiter à le remplir de façon détaillée. Cela montrera aux organisateurs que vous avez de la matière à présenter et que vous êtes capable d’alimenter une conférence autour de votre sujet.&lt;/p&gt;
+&lt;p&gt;Si jamais vous avez déjà joué cette session, n’hésitez pas à partager les slides et la (les) vidéo(s) correspondant à la conférence. Cela permet à l’organisateur de voir comment vous vous exprimez et comment vous traitez un sujet. Attention toutefois, si vous n’êtes pas content d’une de vos prestations vidéo, ne mettez peut-être pas le lien car cela pourrait s’avérer être à double tranchant. En effet, j’ai déjà refusé des sujets suite au visionnage de vidéos.&lt;/p&gt;
+&lt;h2 id=&quot;Conseils&quot;&gt;&lt;a href=&quot;#Conseils&quot; class=&quot;headerlink&quot; title=&quot;Conseils&quot;&gt;&lt;/a&gt;Conseils&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/advice.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Si vous devez retenir quelque chose lors d’une soumission à un CFP, c’est les consignes suivantes : &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Soyez concis&lt;/li&gt;
+&lt;li&gt;Mettez vous à la place des participants&lt;/li&gt;
+&lt;li&gt;Mettez vous à la place de l’organisateur&lt;/li&gt;
+&lt;li&gt;Expliquez votre talk&lt;/li&gt;
+&lt;li&gt;Donner les slides, liens vers vos vidéos&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;Pour-aller-plus-loin&quot;&gt;&lt;a href=&quot;#Pour-aller-plus-loin&quot; class=&quot;headerlink&quot; title=&quot;Pour aller plus loin :&quot;&gt;&lt;/a&gt;Pour aller plus loin :&lt;/h2&gt;&lt;p&gt;Je vous invite à aller lire l’article de &lt;a href=&quot;https://twitter.com/karesti&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Katia Aresti&lt;/a&gt; sur le sujet &lt;a href=&quot;http://www.duchess-france.org/jai-teste-pour-vous-etre-dans-le-comite-du-CFP-de-devoxx-france/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;“J’ai testé pour vous : être dans le comité du CFP de Devoxx France”&lt;/a&gt;. Cet article partage beaucoup des éléments que j’ai pu évoquer et aborde d’autres aspects que je n’avais pas le temps de traiter.&lt;/p&gt;
+&lt;p&gt;Toutes ces photos ont été trouvées sur &lt;a href=&quot;finda.photo&quot;&gt;finda.photo&lt;/a&gt;, &lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Unsplash&lt;/a&gt; et &lt;a href=&quot;http://www.gratisography.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Gratisography&lt;/a&gt; (Sites de photos libre de droits)&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/audience.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Si vous n’avez pas lu la première partie, je vous invite à la lire : &lt;a h
+    
+    </summary>
+    
+      <category term="Tips" scheme="http://jef.binomed.fr/categories/Tips/"/>
+    
+    
+      <category term="speaker" scheme="http://jef.binomed.fr/tags/speaker/"/>
+    
+      <category term="tips" scheme="http://jef.binomed.fr/tags/tips/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Comment devenir speaker  ? (Partie 1)</title>
     <link href="http://jef.binomed.fr/2016/03/11/2016-03-11-comment-devenir-speaker-part-1/"/>
     <id>http://jef.binomed.fr/2016/03/11/2016-03-11-comment-devenir-speaker-part-1/</id>
     <published>2016-03-11T11:53:09.000Z</published>
-    <updated>2016-03-11T13:39:43.232Z</updated>
+    <updated>2016-04-29T10:55:09.937Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/2016-03-speakers/audience.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Régulièrement je croise un grand nombre de personnes talentueuses techniquement. Que ce soit dans ma société ou lors des évènements que je peux organiser avec le GDG.&lt;/p&gt;

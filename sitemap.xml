@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jef.binomed.fr/2016/05/02/2016-05-02-comment-devenir-speaker-part-3/</loc>
+    
+    <lastmod>2016-05-02T08:01:43.131Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jef.binomed.fr/2016/03/11/2016-03-11-comment-devenir-speaker-part-1/</loc>
     
-    <lastmod>2016-03-11T13:39:43.232Z</lastmod>
+    <lastmod>2016-04-29T10:55:09.937Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jef.binomed.fr/2016/04/06/2016-04-06-comment-devenir-speaker-part-2/</loc>
+    
+    <lastmod>2016-04-29T10:55:09.937Z</lastmod>
     
   </url>
   
@@ -44,13 +58,6 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/2015/10/30/2015-10-30--Connectez-votre-rameur-d-appartement-avec-Chrome/</loc>
-    
-    <lastmod>2016-02-26T15:02:46.773Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://jef.binomed.fr/2015/12/11/2015-12-11--myo-sous-linux/</loc>
     
     <lastmod>2016-02-26T15:02:46.773Z</lastmod>
@@ -58,16 +65,9 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/assets/js_helper/jef-binomed-helper.js</loc>
+    <loc>http://jef.binomed.fr/2015/10/30/2015-10-30--Connectez-votre-rameur-d-appartement-avec-Chrome/</loc>
     
-    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jef.binomed.fr/assets/2015-07-PortalWebRTC/portal-custo.css</loc>
-    
-    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
+    <lastmod>2016-02-26T15:02:46.773Z</lastmod>
     
   </url>
   
@@ -93,16 +93,16 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/2015/02/20/2015-02-20--DevFest-Nantes-2014-Demos-Part-2-Leap-Motion/</loc>
+    <loc>http://jef.binomed.fr/assets/js_helper/jef-binomed-helper.js</loc>
     
-    <lastmod>2015-12-11T15:05:57.000Z</lastmod>
+    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/2014/11/29/2014-11-29--un-nouveau-blog/</loc>
+    <loc>http://jef.binomed.fr/assets/2015-07-PortalWebRTC/portal-custo.css</loc>
     
-    <lastmod>2015-12-11T15:05:57.000Z</lastmod>
+    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
     
   </url>
   
@@ -135,7 +135,21 @@
   </url>
   
   <url>
+    <loc>http://jef.binomed.fr/2015/02/20/2015-02-20--DevFest-Nantes-2014-Demos-Part-2-Leap-Motion/</loc>
+    
+    <lastmod>2015-12-11T15:05:57.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jef.binomed.fr/2015/07/07/2015-07-07--Realisez-votre-PortalGun-avec-WebRTC/</loc>
+    
+    <lastmod>2015-12-11T15:05:57.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jef.binomed.fr/2014/11/29/2014-11-29--un-nouveau-blog/</loc>
     
     <lastmod>2015-12-11T15:05:57.000Z</lastmod>
     
