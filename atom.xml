@@ -5,7 +5,7 @@
   <link href="//atom.xml" rel="self"/>
   
   <link href="http://jef.binomed.fr/"/>
-  <updated>2016-05-02T08:01:43.131Z</updated>
+  <updated>2016-05-27T13:11:17.886Z</updated>
   <id>http://jef.binomed.fr/</id>
   
   <author>
@@ -14,6 +14,173 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Retour sur le Google I/O 2016</title>
+    <link href="http://jef.binomed.fr/2016/05/27/2016-05-27-retour-google-io-2016/"/>
+    <id>http://jef.binomed.fr/2016/05/27/2016-05-27-retour-google-io-2016/</id>
+    <published>2016-05-27T13:11:17.000Z</published>
+    <updated>2016-05-27T13:11:17.886Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/io.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;A mon tour de faire mon retour sur le &lt;a href=&quot;https://events.google.com/io2016/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google I/O 2016&lt;/a&gt;. A travers cet article, je ne comptes pas revenir sur les grandes annonces de la &lt;a href=&quot;https://developers.googleblog.com/2016/05/google-io-2016-develop-grow-earn.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;keynote&lt;/a&gt; ou de la session &lt;a href=&quot;http://lelab.sqli.com/google-io-2016-les-projets-de-google-atap/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ATAP&lt;/a&gt;, car elles ont déjà été reprises en large et en travers sur le web. Je vais plutôt m’attarder sur l’ambiance et sur les conférences où je suis allé afin d’offrir un point de vue légèrement différent.&lt;/p&gt;
+&lt;h1 id=&quot;L’ambiance&quot;&gt;&lt;a href=&quot;#L’ambiance&quot; class=&quot;headerlink&quot; title=&quot;L’ambiance&quot;&gt;&lt;/a&gt;L’ambiance&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/ambiance.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pour se rendre compte de l’ambiance, Google a mis à disposition une vidéos 360 (Android VR Oblige) pour se retrouver immergé dans ce festival du codeur.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/E5lrU5v17Qo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Je n’ai pas utilisé le terme festival au hasard car cette année, le Google I/O était avant tout un festival. Dès que l’on a récupéré nos badges, on a eu le droit a un kit du festivalier avec : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Des lunettes de soleil.&lt;/li&gt;
+&lt;li&gt;De la crème solaire.&lt;/li&gt;
+&lt;li&gt;Une gourde.&lt;/li&gt;
+&lt;li&gt;Une sorte de snood .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En lisant ces quelques lignes, vous vous dites que quelque-chose ne colle pas. N’étais-je pas censé être à une conférence de développeurs ? A vouloir faire les choses en grand Google a, en quelque sorte, un peu oublié ce pourquoi les gens venaient : les conférences ! Revenons donc sur les côtés positifs et négatifs de cet événement.&lt;/p&gt;
+&lt;h2 id=&quot;Les-moins&quot;&gt;&lt;a href=&quot;#Les-moins&quot; class=&quot;headerlink&quot; title=&quot;Les moins&quot;&gt;&lt;/a&gt;Les moins&lt;/h2&gt;&lt;h3 id=&quot;Des-espaces-mal-dimensionnes&quot;&gt;&lt;a href=&quot;#Des-espaces-mal-dimensionnes&quot; class=&quot;headerlink&quot; title=&quot;Des espaces mal dimensionnés&quot;&gt;&lt;/a&gt;Des espaces mal dimensionnés&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/queue.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;J’ai déjà un peu laissé sous entendre ce qui représentait le point négatif : les conférences. Non pas sur leur qualité, mais sur la quantité de conférences que j’ai pu voir. En effet, lors de la Keynote, Google annonce 7000 participants (c’est énorme !). Je fut très surpris de voir que sur les 11 espaces de conférences, 7 d’entre eux avaient des capacités d’environ 100 places ! Pour les salles restantes, on devait atteindre les 400/500 voir 800 places. Je vous laisse faire vos petits calculs : tout le monde ne rentre pas. &lt;/p&gt;
+&lt;p&gt;Le résultat ne s’est pas fait attendre, quand on voulait voir une conférence il fallait faire la queue 1h avant. De plus, nous n’avions pas le droit de rester dans une salle une fois une conférence terminée même si la session suivante nous intéressait….&lt;/p&gt;
+&lt;p&gt;Voici un aperçu de ce que ça donnait : &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pPCk2tVU82M&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Il faut quand même avouer que Google a essayé de réagir vite et dès le deuxième jour l’amphithéâtre avec une capacité très grande, pouvait être utilisé pour des conférences. Un système de tickets avait aussi été instauré. En gros si vous aviez un ticket, vous pouviez rentrer sinon, passer votre chemin. Ça évitait ainsi d’attendre 45min pour au final se faire rejeter devant la salle !&lt;/p&gt;
+&lt;h3 id=&quot;Un-manque-de-goodies&quot;&gt;&lt;a href=&quot;#Un-manque-de-goodies&quot; class=&quot;headerlink&quot; title=&quot;Un manque de goodies&quot;&gt;&lt;/a&gt;Un manque de goodies&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/devices.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Bien qu’il n’a jamais été officiel que Google donne des “Devices” ou autre pendant le Google IO, cela était quelque chose d’implicite sur les précédentes éditions. Quand on sait ce que peut coûter un Google I/O entre le billet d’entrée, le trajet, l’hôtel, les congés pour certains, … Cela peut vite monter !  Les “Devices” étaient une sorte de récompense et une des vrais valeur ajoutée à aller sur place. En effet, toutes les vidéos sont disponibles instantanément sur &lt;a href=&quot;https://www.youtube.com/playlist?list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Youtube&lt;/a&gt;. Donc, à part le networking et les goodies, aller au Google I/O n’apporte pas grand chose. C’est donc pour ça que je pointe du doigt ce détail car l’avis est assez partagé.&lt;/p&gt;
+&lt;h3 id=&quot;Coming-Soon&quot;&gt;&lt;a href=&quot;#Coming-Soon&quot; class=&quot;headerlink&quot; title=&quot;Coming Soon&quot;&gt;&lt;/a&gt;Coming Soon&lt;/h3&gt;&lt;p&gt;Malheureusement, beaucoup des annonces de la keynote ou d’ATAP étaient en &lt;strong&gt;“coming soon”&lt;/strong&gt;. C’est bien dommage !  A part pour le web où beaucoup de choses étaient testables en rentrant du I/O, la grosse majorité des annonces nécessitaient de s’inscrire à des formulaires à l’image d’&lt;a href=&quot;https://developer.android.com/topic/instant-apps/index.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android Instant App&lt;/a&gt; qui arrivera d’ici la fin de l’année. &lt;/p&gt;
+&lt;h2 id=&quot;Les-plus&quot;&gt;&lt;a href=&quot;#Les-plus&quot; class=&quot;headerlink&quot; title=&quot;Les plus&quot;&gt;&lt;/a&gt;Les plus&lt;/h2&gt;&lt;h3 id=&quot;Le-Networking&quot;&gt;&lt;a href=&quot;#Le-Networking&quot; class=&quot;headerlink&quot; title=&quot;Le Networking&quot;&gt;&lt;/a&gt;Le Networking&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/networking.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Clairement, un des grand avantages du I/O, l’opportunité que l’on a de rencontrer des gens que l’on verra pas en dehors ! J’ai pu croiser et discuter avec des gens comme &lt;a href=&quot;https://www.christianheilmann.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Christian Heilmann&lt;/a&gt; ou encore les développeurs de l’équipe Chrome. &lt;/p&gt;
+&lt;h3 id=&quot;La-qualite-des-conferences&quot;&gt;&lt;a href=&quot;#La-qualite-des-conferences&quot; class=&quot;headerlink&quot; title=&quot;La qualité des conférences&quot;&gt;&lt;/a&gt;La qualité des conférences&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/confs.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;A part une session, je n’ai jamais été déçu par les conférences que je suis allé voir. Tous les speakers maîtrisaient leur sujet, présentaient bien, avaient beaucoup d’humour et avaient un contenu intéressant ! &lt;/p&gt;
+&lt;p&gt;Bref, le codeur que je suis étais ravis !&lt;/p&gt;
+&lt;h3 id=&quot;L’arrivee-sur-le-site&quot;&gt;&lt;a href=&quot;#L’arrivee-sur-le-site&quot; class=&quot;headerlink&quot; title=&quot;L’arrivée sur le site&quot;&gt;&lt;/a&gt;L’arrivée sur le site&lt;/h3&gt;&lt;p&gt;Bien qu’il y avait 7000 personnes à enregistrer, cela c’est très bien orchestré. Google a en effet permis aux gens de venir récupérer leur badge dès la veille et cela a permis d’éviter de longues files d’attentes pour récupérer son précieux badge. Rien a dire si ce n’est bravo !&lt;/p&gt;
+&lt;h3 id=&quot;Les-a-cote&quot;&gt;&lt;a href=&quot;#Les-a-cote&quot; class=&quot;headerlink&quot; title=&quot;Les à côté&quot;&gt;&lt;/a&gt;Les à côté&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/concert.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Comme chaque année, Google a mis le paquet sur les démos et animations ! Que ce soit la soirée concert du premier soir (Charli XCX &amp;amp; Kygo) ou encore la soirée libre truffée d’animations en tout genre. Le Google I/O reste un moment vraiment exceptionnel pour les geek que nous sommes ! &lt;/p&gt;
+&lt;p&gt;Voici par exemple une animation où deux personnes s’affrontaient sur un vélo sur une route “Street-view”. Celui qui allait le plus loin dans le temps imparti gagnait !&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/demo_velo.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Les-decouvertes&quot;&gt;&lt;a href=&quot;#Les-decouvertes&quot; class=&quot;headerlink&quot; title=&quot;Les découvertes&quot;&gt;&lt;/a&gt;Les découvertes&lt;/h2&gt;&lt;p&gt;Voici quelques une des démos qui m’ont marqué.&lt;/p&gt;
+&lt;h3 id=&quot;Io-Paint-amp-Io-Planes&quot;&gt;&lt;a href=&quot;#Io-Paint-amp-Io-Planes&quot; class=&quot;headerlink&quot; title=&quot;Io Paint &amp;amp; Io Planes&quot;&gt;&lt;/a&gt;Io Paint &amp;amp; Io Planes&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/io_paint.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pour faire patienter les gens pendant la keynote, Google a mis à disposition 2 jeux web dont l’objectif était de jeter de la peinture sur une toile virtuelle avec son téléphone ou de jeter un avion en papier à l’écran. C’était une démonstration technologique très impressionnante car on voyait bien que les serveurs de Google encaissaient la charge et qu’ils étaient capable de retransmettre ça en live !&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://g.co/IOpaint&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;IO Paint&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://g.co/IOplanes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;IO Planes&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;L’espace-Google-Musique&quot;&gt;&lt;a href=&quot;#L’espace-Google-Musique&quot; class=&quot;headerlink&quot; title=&quot;L’espace Google Musique&quot;&gt;&lt;/a&gt;L’espace Google Musique&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/play_musique.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Google a mis en place des murs remplis de prises jack dans lesquels étaient joués un morceau disponible sur Play Musique. &lt;/p&gt;
+&lt;p&gt;L’autre démonstration, c’était VR Rhapsody. Une expérience vidéo en VR sur la musique de Bohemian Rhapsody de Queen : &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/vr_rhapsody.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Tilt-Brush&quot;&gt;&lt;a href=&quot;#Tilt-Brush&quot; class=&quot;headerlink&quot; title=&quot;Tilt Brush&quot;&gt;&lt;/a&gt;Tilt Brush&lt;/h3&gt;&lt;p&gt;L’application &lt;a href=&quot;http://www.tiltbrush.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tilt Brush&lt;/a&gt; est sortie quelques jours avant le I/O et permet de peindre en réalité virtuelle des dessins 3D. Lors de la deuxième soirée, nous avons eu le droit à un show live d’artistes qui utilisaient l’application. C’était vraiment très impressionnant ! &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mnfzEh5-4M0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;h3 id=&quot;Loon-en-vrai&quot;&gt;&lt;a href=&quot;#Loon-en-vrai&quot; class=&quot;headerlink&quot; title=&quot;Loon en vrai !&quot;&gt;&lt;/a&gt;Loon en vrai !&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/loon.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Google a ramené sur le site du Google I/O un ballon du &lt;a href=&quot;https://www.google.com/loon/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Project Loon&lt;/a&gt; &lt;/p&gt;
+&lt;h3 id=&quot;Google-For-Kids&quot;&gt;&lt;a href=&quot;#Google-For-Kids&quot; class=&quot;headerlink&quot; title=&quot;Google For Kids&quot;&gt;&lt;/a&gt;Google For Kids&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/scratch.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Il y avait tout un stand consacré au développement pour les enfants. J’ai ainsi pu voir tourner &lt;a href=&quot;https://scratch.mit.edu/developers&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Scratch Blocks&lt;/a&gt;, le projet collaboratif entre Google et le MIT basé sur &lt;a href=&quot;https://scratch.mit.edu/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Scratch&lt;/a&gt;. La photo représente un jeux qui nous permet de contrôler des petits robots que des enfants peuvent construire et programmer.&lt;/p&gt;
+&lt;h2 id=&quot;Les-choses-qu’on-ne-peut-voir-que-quand-on-est-au-pays-de-Google&quot;&gt;&lt;a href=&quot;#Les-choses-qu’on-ne-peut-voir-que-quand-on-est-au-pays-de-Google&quot; class=&quot;headerlink&quot; title=&quot;Les choses qu’on ne peut voir que quand on est au pays de Google&quot;&gt;&lt;/a&gt;Les choses qu’on ne peut voir que quand on est au pays de Google&lt;/h2&gt;&lt;h3 id=&quot;La-Self-driving-car&quot;&gt;&lt;a href=&quot;#La-Self-driving-car&quot; class=&quot;headerlink&quot; title=&quot;La Self driving car&quot;&gt;&lt;/a&gt;La Self driving car&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/google_car.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Une chose qui m’a frappé quand on était dans Mountain View, c’est le nombre impressionnant de &lt;a href=&quot;https://www.google.com/selfdrivingcar/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Self Driving Car&lt;/a&gt;. Il ne se passait pas 10 minutes sans qu’on en croise une ! &lt;/p&gt;
+&lt;h3 id=&quot;La-plaque-Git-Push&quot;&gt;&lt;a href=&quot;#La-plaque-Git-Push&quot; class=&quot;headerlink&quot; title=&quot;La plaque Git Push&quot;&gt;&lt;/a&gt;La plaque Git Push&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/gitpush.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Anecdote fun &amp;amp; geek. On était en train de rentrer à notre hôtel quand on a vu sur la route à côte de nous cette voiture avec cette plaque d’immatriculation qui nous a bien fait marré.&lt;/p&gt;
+&lt;h1 id=&quot;Les-Confs&quot;&gt;&lt;a href=&quot;#Les-Confs&quot; class=&quot;headerlink&quot; title=&quot;Les Confs&quot;&gt;&lt;/a&gt;Les Confs&lt;/h1&gt;&lt;p&gt;Maintenant que la partie non technique est couverte, je vais revenir sur les conférences que j’ai suivit.&lt;/p&gt;
+&lt;p&gt;Cette partie sera un peu moins structuré car cela représente la retranscription des notes que j’ai prises pendant les sessions. J’ai mis à chaque fois un lien vers les vidéos.&lt;/p&gt;
+&lt;h2 id=&quot;Web-Performance-Tooling&quot;&gt;&lt;a href=&quot;#Web-Performance-Tooling&quot; class=&quot;headerlink&quot; title=&quot;Web Performance Tooling&quot;&gt;&lt;/a&gt;Web Performance Tooling&lt;/h2&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/iMqi55rcR00?list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Cette session permet d’avoir plein d’infos sur les manières d’aborder le profiling d’une page web. Vous comprendrez comment utiliser au mieux l’onglet timeline des devtools. D’autres astuces ont été aussi révélées pendant cette session du comme : comment utiliser la recherche, l’utilisation des raccourcis claviers…&lt;/p&gt;
+&lt;p&gt;L’annonce du debug d’application node a aussi été faite. Plus besoin de passer par node inspector pour débugger son projet node !&lt;/p&gt;
+&lt;h2 id=&quot;Fast-and-resilient-web-apps-Tools-and-techniques&quot;&gt;&lt;a href=&quot;#Fast-and-resilient-web-apps-Tools-and-techniques&quot; class=&quot;headerlink&quot; title=&quot;Fast and resilient web apps: Tools and techniques&quot;&gt;&lt;/a&gt;Fast and resilient web apps: Tools and techniques&lt;/h2&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aqvz5Oqs238&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Cette session était vraiment intéressante car elle prônait entre autre l’approche du Offline first ou du “si ça doit planter, ça va planter !”. L’orateur a fait tout un ensemble de recherches pour démontrer que le temps où l’utilisateur est déconnecté ou derrière un réseau lent, est beaucoup plus important que ce que l’on pourrait croire ! Il faut donc penser ses applications / pages web comme devant tourner avant tout sur des réseaux limités voir ne fonctionnant pas. Une fois la démonstration faite, il passe le reste de son talk à montrer comment en tant que développeur web avec les nouvelles apis disponibles, on peut prévoir ces cas “non optimaux”. &lt;/p&gt;
+&lt;p&gt;La conclusion du talk est qu’il faut utiliser la plateforme web et les apis qu’elle nous offre pour gérer les cas “non optimaux” : Offline / Edge / …&lt;/p&gt;
+&lt;h2 id=&quot;VR-at-Google&quot;&gt;&lt;a href=&quot;#VR-at-Google&quot; class=&quot;headerlink&quot; title=&quot;VR at Google&quot;&gt;&lt;/a&gt;VR at Google&lt;/h2&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UGlcsJOt-ng?list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Cette présentation était une sorte de Keynote de la VR chez Google pour revenir sur l’annonce DayDream. Voici en vrac ce que j’ai retenu : &lt;/p&gt;
+&lt;p&gt;DayDream ne fonctionnera pas sur tous les téléphones. Ils devront répondre à des contraintes physiques tels que : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sensors précis&lt;/li&gt;
+&lt;li&gt;Processeurs puissants &lt;/li&gt;
+&lt;li&gt;Tournant sur Android N au minimum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Une collaboration a été annoncée entre Google et Unreal et Unity pour permettre la réalisation d’expérience DayDream avec ces moteurs.&lt;/p&gt;
+&lt;p&gt;Un NDK spécial DayDream sera mis à disposition.&lt;/p&gt;
+&lt;h2 id=&quot;What’s-next-for-the-web&quot;&gt;&lt;a href=&quot;#What’s-next-for-the-web&quot; class=&quot;headerlink&quot; title=&quot;What’s next for the web?&quot;&gt;&lt;/a&gt;What’s next for the web?&lt;/h2&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bK6Ah68jEX8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Cette session est une des plus dense qu’il m’ait été donné de voir ! En effet pendant cette session Chris &amp;amp; François présentent tout un ensemble d’API qui vont arriver ou qui sont déjà en place et qui méritent que l’on s’y intéresse. Voici celles que j’ai eu le temps de noter : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Credential API&lt;/li&gt;
+&lt;li&gt;Web Payement&lt;/li&gt;
+&lt;li&gt;Web Midi&lt;/li&gt;
+&lt;li&gt;Web USB&lt;/li&gt;
+&lt;li&gt;Utilisation des Streams&lt;/li&gt;
+&lt;li&gt;Passive Event Listener&lt;/li&gt;
+&lt;li&gt;Preload des liens&lt;/li&gt;
+&lt;li&gt;Http Client Hints&lt;/li&gt;
+&lt;li&gt;Image Bitmpa&lt;/li&gt;
+&lt;li&gt;Media Recorder&lt;/li&gt;
+&lt;li&gt;Web Bluetooth&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Polymer-and-Progressive-Web-Apps-Building-on-the-modern-web&quot;&gt;&lt;a href=&quot;#Polymer-and-Progressive-Web-Apps-Building-on-the-modern-web&quot; class=&quot;headerlink&quot; title=&quot;Polymer and Progressive Web Apps: Building on the modern web&quot;&gt;&lt;/a&gt;Polymer and Progressive Web Apps: Building on the modern web&lt;/h2&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fFF2Yup2dMM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Cette session avait pour objectif de montrer ce que les équipes de Polymer avaient développé pour s’inscrire dans le mouvement des Progressice Web Apps. Les équipes ont donc travaillés sur &lt;a href=&quot;https://www.polymer-project.org/1.0/toolbox/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Polymer App Toolbox&lt;/a&gt; un ensemble d’outils de webcomponents répondant aux besoins suivants : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Des composants de layouts&lt;/li&gt;
+&lt;li&gt;Des composants de Routing&lt;/li&gt;
+&lt;li&gt;Des composants de localization&lt;/li&gt;
+&lt;li&gt;Des composants de Storages&lt;/li&gt;
+&lt;li&gt;Des commandes cli pour manipuler tout ça correctement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En addition à tout ça, ils en ont profiter pour annoncer la sortie d’un nouveau pattern : le PRPL : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Push&lt;/strong&gt; components for initial route&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Render&lt;/strong&gt; the initial route asap&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pre-cache&lt;/strong&gt; components for remaining routes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lazy-load&lt;/strong&gt; &amp;amp; create next routes on-demand&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Je vous invite à regarder cette session pour rentrer plus en détail dans ce pattern (n’hésitez pas à zapper le début de la session, ce n’est un résumé du chemin fait par Polymer). J’essayerais d’écrire un article sur ce sujet d’ici la fin de l’année.&lt;/p&gt;
+&lt;h2 id=&quot;Instant-Loading-Building-offline-first-Progressive-Web-Apps&quot;&gt;&lt;a href=&quot;#Instant-Loading-Building-offline-first-Progressive-Web-Apps&quot; class=&quot;headerlink&quot; title=&quot;Instant Loading: Building offline-first Progressive Web Apps&quot;&gt;&lt;/a&gt;Instant Loading: Building offline-first Progressive Web Apps&lt;/h2&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cmGr0RszHc8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;A travers cette session Jake rentre dans le détail de l’implémentation d’une application offline-first en montrant étapes par étapes comment créer l’effet magique de l’application web qui démarre en offline. Cela va jusqu’à faire démarrer une application web plus vite qu’une application native ;)&lt;/p&gt;
+&lt;h2 id=&quot;Houdini-Demystifying-the-Future-of-CSS&quot;&gt;&lt;a href=&quot;#Houdini-Demystifying-the-Future-of-CSS&quot; class=&quot;headerlink&quot; title=&quot;Houdini: Demystifying the Future of CSS&quot;&gt;&lt;/a&gt;Houdini: Demystifying the Future of CSS&lt;/h2&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sE3ttkP15f8&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Cette session présente une nouvelle spec W3C qui va donner la possibilité aux développeurs de surcharger une propriété css. Pourquoi faire me direz vous ? Et bien, pour créer des polyfils par exemple. L’argument avancé est : “n’en avez pas assez de ne pouvoir utiliser une propriété css par ce qu’elle n’est pas implémentée dans votre navigateur ?”. Derrière ces annonces qui semblent fortes alléchantes, il va quand même falloir se montrer patient !  Le speaker confiait que l’on ne pouvait pas encore tester Houdini même dans Canary et qu’il faudra attendre fin juin pour voir une partie de la spec arriver dans cette branche dev de chrome… Bref affaire à suivre ;)&lt;/p&gt;
+&lt;p&gt;Pour aller plus loin n’hésitez pas à lire cet article : &lt;a href=&quot;https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Houdini: Maybe The Most Exciting Development In CSS You’ve Never Heard Of&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;AMP-Progressive-Web-Apps-Start-fast-stay-engaged&quot;&gt;&lt;a href=&quot;#AMP-Progressive-Web-Apps-Start-fast-stay-engaged&quot; class=&quot;headerlink&quot; title=&quot;AMP + Progressive Web Apps: Start fast, stay engaged&quot;&gt;&lt;/a&gt;AMP + Progressive Web Apps: Start fast, stay engaged&lt;/h2&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/a5X_Ot-R6lo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Cette session a permis de mettre en avant comment &lt;a href=&quot;https://www.ampproject.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;AMP&lt;/a&gt; est déjà prévu pour fonctionner avec les progressives web apps.&lt;/p&gt;
+&lt;p&gt;Lors de cette session, j’ai aussi noté la sortie d’un projet fort intéressant : &lt;a href=&quot;https://github.com/GoogleChrome/Lighthouse&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Lighthouse&lt;/a&gt;. Ce projet est un outils qui vous permet d’auditer et d’analyser la qualité de votre “Progressive Web Apps”.&lt;/p&gt;
+&lt;p&gt;J’ai aussi retenu qu’AMP proposait des tags spécifiques permettant de charger dynamiquement les services workers de la page disponible sur AMP afin de booster encore l’impression d’instantané lors de la visite du lien.&lt;/p&gt;
+&lt;h2 id=&quot;Le-reste&quot;&gt;&lt;a href=&quot;#Le-reste&quot; class=&quot;headerlink&quot; title=&quot;Le reste ?&quot;&gt;&lt;/a&gt;Le reste ?&lt;/h2&gt;&lt;p&gt;Il y a beaucoup de conférences que j’aurais aimé aller voir ou qu’on m’a conseillé de regarder.  Voici la liste : &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sGsA7oKoQhI&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The 2016 Web Development Workflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_dXBibRO0SM&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deep user engagement with web push notifications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=zfQoleQEa4w&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Practical lessons from a year of building web components&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=yvgPrZNp4So&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;What’s New with Project Tango&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=x8u0n4dT-WI&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;DevTools in 2016: Accelerate your workflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Jd96g8vBUWk&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;A new development frontier: Android + Pepper the interactive robot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=L_Z3gSXGsyI&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;What’s new in Android Wear 2.0?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vyfy7AdPk2g&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Lightweight real world interactions with the Physical Web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=E6hGubMkNfM&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Building for billions on the web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Use459WBeWc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Great libraries and tools for great Progressive Web Apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=B08iLAtS3AQ&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;What’s new in Android&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=thNyy5eYfbc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;High performance web user interfaces&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/assets/2016-05-IO/io.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;A mon tour de faire mon retour sur le &lt;a href=&quot;https://events.google.com/io2016/&quot; tar
+    
+    </summary>
+    
+      <category term="Event" scheme="http://jef.binomed.fr/categories/Event/"/>
+    
+    
+      <category term="CSS" scheme="http://jef.binomed.fr/tags/CSS/"/>
+    
+      <category term="PWA" scheme="http://jef.binomed.fr/tags/PWA/"/>
+    
+      <category term="Polymer" scheme="http://jef.binomed.fr/tags/Polymer/"/>
+    
+      <category term="VR" scheme="http://jef.binomed.fr/tags/VR/"/>
+    
+  </entry>
   
   <entry>
     <title>Comment devenir speaker  ? (Partie 3)</title>
