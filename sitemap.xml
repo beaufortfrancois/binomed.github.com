@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jef.binomed.fr/2016/07/22/2016-07-22-controle-d-un-robot-par-une-page-web/</loc>
+    
+    <lastmod>2016-07-22T08:31:34.153Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jef.binomed.fr/assets/2016-07-Mbot/mbot.js</loc>
+    
+    <lastmod>2016-07-15T15:25:37.938Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jef.binomed.fr/assets/2016-07-Mbot/mbot.css</loc>
+    
+    <lastmod>2016-07-15T15:22:50.354Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jef.binomed.fr/2016/05/27/2016-05-27-retour-google-io-2016/</loc>
     
-    <lastmod>2016-05-27T14:43:35.922Z</lastmod>
+    <lastmod>2016-07-06T11:32:07.641Z</lastmod>
     
   </url>
   
@@ -16,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/2016/03/11/2016-03-11-comment-devenir-speaker-part-1/</loc>
+    <loc>http://jef.binomed.fr/2016/04/06/2016-04-06-comment-devenir-speaker-part-2/</loc>
     
     <lastmod>2016-04-29T10:55:09.937Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/2016/04/06/2016-04-06-comment-devenir-speaker-part-2/</loc>
+    <loc>http://jef.binomed.fr/2016/03/11/2016-03-11-comment-devenir-speaker-part-1/</loc>
     
     <lastmod>2016-04-29T10:55:09.937Z</lastmod>
     
@@ -79,28 +100,7 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/assets/2015-07-PortalWebRTC/portal-custo.js</loc>
-    
-    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jef.binomed.fr/assets/2015-10-Skiff/skiff-custo.css</loc>
-    
-    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://jef.binomed.fr/assets/2015-10-Skiff/skiff-custo.js</loc>
-    
-    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://jef.binomed.fr/assets/js_helper/jef-binomed-helper.js</loc>
     
     <lastmod>2015-12-11T15:05:59.000Z</lastmod>
     
@@ -114,7 +114,28 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/2014/11/29/2014-11-29--un-nouveau-blog/</loc>
+    <loc>http://jef.binomed.fr/assets/2015-07-PortalWebRTC/portal-custo.js</loc>
+    
+    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jef.binomed.fr/assets/js_helper/jef-binomed-helper.js</loc>
+    
+    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jef.binomed.fr/assets/2015-10-Skiff/skiff-custo.css</loc>
+    
+    <lastmod>2015-12-11T15:05:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jef.binomed.fr/2014/12/10/2014-12-10--DevFest-Nantes-2014-Demos-Part-0-Teasing/</loc>
     
     <lastmod>2015-12-11T15:05:57.000Z</lastmod>
     
@@ -156,7 +177,7 @@
   </url>
   
   <url>
-    <loc>http://jef.binomed.fr/2014/12/10/2014-12-10--DevFest-Nantes-2014-Demos-Part-0-Teasing/</loc>
+    <loc>http://jef.binomed.fr/2014/11/29/2014-11-29--un-nouveau-blog/</loc>
     
     <lastmod>2015-12-11T15:05:57.000Z</lastmod>
     
